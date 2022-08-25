@@ -3,3 +3,5 @@ def hello():
 
 def Mugen():
 	print('Muzan')
+
+poshol nahui
