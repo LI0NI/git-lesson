@@ -3,3 +3,6 @@ def hello():
 
 def Mugen():
 	print('Muzan')
+
+def Reihard():
+	print('Gold')
